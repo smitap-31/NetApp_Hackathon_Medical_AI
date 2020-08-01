@@ -6,4 +6,4 @@
       Contains dataset of 300 images for training the model.
       Contains .ipynb file which contains diabetic retinopathy model. 
 
-## <a href="https://github.com/smitap-31/NetApp_Hackathon_Medical_AI/graphs/contributors"><img src="https://img.shields.io/github/contributors/smitap-31/NetApp_Hackathon_Medical_AI"></a>  
+## <a href="https://github.com/smitap-31/NetApp_Hackathon_Medical_AI/graphs/contributors"><img src="https://img.shields.io/github/contributors/smitap-31/NetApp_Hackathon_Medical_AI"></a>  <a href="#"><img src="https://img.shields.io/github/commit-activity/m/smitap-31/NetApp_Hackathon_Medical_AI"></a>
